@@ -12,6 +12,8 @@ keeping track of my todos, websites, plans for a day etc. is a HASSLE. scheduled
 | open serendepity on CLI |
 | add tasks, assign various factors as required by each task |
 | automatagically update your JIRA board with specific tasks |
+| (potentially) add to the figma jamboard for physical editing |
+| (potentially) add to the Apple Calendar |
 
 
 ## _features_
