@@ -8,15 +8,16 @@
 
 keeping track of my todos, websites, plans for a day etc. is a HASSLE. scheduled meetings are often missed, and very often this is because you simply forget. further, studies have shown that writing down all of your tasks helps you better accomplish them..
 
-day begins
 ---------------------------
-morning routine
+| day begins |
 ---------------------------
-open serendepity on CLI
+| morning routine |
 ---------------------------
-add tasks, assign various factors as required by each task
+| open serendepity on CLI |
 ---------------------------
-automatagically update your JIRA board with specific tasks
+| add tasks, assign various factors as required by each task |
+---------------------------
+| automatagically update your JIRA board with specific tasks |
 ---------------------------
 
 
